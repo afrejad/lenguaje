@@ -1,0 +1,143 @@
+{
+  "programs": {
+    "maestria": {
+      "name": "Maestría en Lingüística",
+      "short": "Maestría",
+      "emphasis": "Énfasis en profundización",
+      "title": "Haz de tus preguntas sobre el lenguaje un proyecto de investigación.",
+      "intro": "Profundiza en el estudio del lenguaje y sus relaciones con la sociedad, la comunicación y la pedagogía. Encuentra en la UPTC un espacio para desarrollar tus preguntas con fundamento teórico y metodológico.",
+      "duration": "4 semestres",
+      "credits": "52 créditos",
+      "modality": "Combinada",
+      "modality_detail": "Presencial – virtual",
+      "snies": "13187",
+      "email": "maestria.linguistica@uptc.edu.co",
+      "ext": "2475",
+      "url": "https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_educa/posg/mae_13187_t/",
+      "audience": "Para licenciados y profesionales de las Ciencias Sociales y Humanas, las Artes y las Ciencias del Lenguaje, o con un título afín a los objetivos del programa.",
+      "lines": [
+        [
+          "Lenguaje y Sociedad",
+          "¿Cómo se relacionan nuestras formas de hablar con la vida social?"
+        ],
+        [
+          "Pedagogía del Lenguaje",
+          "¿Qué preguntas sobre el lenguaje surgen en las prácticas de enseñanza?"
+        ],
+        [
+          "Lenguaje y Comunicación",
+          "¿Cómo construimos sentido en diferentes situaciones comunicativas?"
+        ]
+      ],
+      "subject": "Orientación · Maestría en Lingüística · 2027-1",
+      "fee_cop": 5694000,
+      "schedule": "Encuentros virtuales sincrónicos en horarios nocturnos y fines de semana, según las actividades curriculares inscritas.",
+      "attendance": "Encuentros presenciales una o dos veces al mes, también en horarios nocturnos y fines de semana.",
+      "attendance_short": "Una o dos veces al mes",
+      "social": "maestria.linguistica.uptc"
+    },
+    "doctorado": {
+      "name": "Doctorado en Lenguaje y Cultura",
+      "short": "Doctorado",
+      "emphasis": "Formación doctoral",
+      "title": "Dale alcance doctoral a tu pregunta sobre lenguaje y cultura.",
+      "intro": "Desarrolla una investigación que ponga en diálogo las ciencias del lenguaje, las artes y las ciencias sociales y humanas. Explora la relación entre tu proyecto y las líneas del Doctorado en Lenguaje y Cultura de la UPTC.",
+      "duration": "3 años",
+      "credits": "83 créditos",
+      "modality": "Híbrida",
+      "modality_detail": "Presencial – virtual",
+      "snies": "90933",
+      "email": "doctorado.lenguajeycultura@uptc.edu.co",
+      "ext": "2569",
+      "url": "https://www.uptc.edu.co/sitio/portal/sitios/universidad/vic_aca/facultades/fac_educa/posg/doc_90933_t/index.html",
+      "audience": "Para profesionales con formación de maestría e intereses de investigación vinculados con el lenguaje y la cultura.",
+      "lines": [
+        [
+          "Lenguaje, sociedad y cultura",
+          "¿Cómo participan los lenguajes en la construcción de la vida social y cultural?"
+        ],
+        [
+          "Lecturas y escrituras",
+          "¿Cómo se configuran las prácticas de lectura y escritura en diferentes contextos?"
+        ],
+        [
+          "Bilingüismo y lenguas en contacto",
+          "¿Qué relaciones se producen cuando conviven distintas lenguas?"
+        ]
+      ],
+      "subject": "Orientación · Doctorado en Lenguaje y Cultura · 2027-1",
+      "fee_cop": 13036982,
+      "schedule": "Encuentros virtuales sincrónicos en horarios nocturnos y fines de semana, según las actividades curriculares inscritas.",
+      "attendance": "Un encuentro presencial por semestre, en horarios intensivos.",
+      "attendance_short": "Una vez por semestre",
+      "social": "doctorado.lenguajeycultura"
+    }
+  },
+  "dates": [
+    [
+      "Venta de PINES y registro inicial",
+      "17 nov. 2026 – 1 feb. 2027",
+      "02"
+    ],
+    [
+      "Formulario de inscripción",
+      "17 nov. 2026 – 2 feb. 2027",
+      "02"
+    ],
+    [
+      "Proceso de selección",
+      "Durante las inscripciones, hasta el 3 feb. 2027",
+      "02"
+    ],
+    [
+      "Notificación a seleccionados por correo",
+      "Durante el proceso, hasta el 4 feb. 2027",
+      "02"
+    ],
+    [
+      "Revisión de documentos y admisión",
+      "9 – 16 feb. 2027",
+      "02"
+    ],
+    [
+      "Publicación de recibos de matrícula",
+      "17 feb. 2027",
+      "03"
+    ],
+    [
+      "Pago ordinario de matrícula (100 % o primera cuota del 60 %)",
+      "18 feb. – 1 mar. 2027",
+      "03"
+    ],
+    [
+      "Pago extraordinario de matrícula",
+      "2 – 8 mar. 2027",
+      "03"
+    ],
+    [
+      "Inscripción de asignaturas en la Escuela de Posgrados",
+      "Hasta el 2 abr. 2027",
+      "03"
+    ],
+    [
+      "Segunda cuota del 40 %: publicación del recibo",
+      "26 abr. 2027",
+      "03"
+    ],
+    [
+      "Segunda cuota del 40 %: pago ordinario",
+      "27 abr. – 7 may. 2027",
+      "03"
+    ],
+    [
+      "Finalización de clases",
+      "3 jul. 2027",
+      "05"
+    ]
+  ],
+  "updated": "24 de noviembre de 2026",
+  "pin": {
+    "fee_cop": 307500,
+    "valid_registration_year": 2026
+  }
+}

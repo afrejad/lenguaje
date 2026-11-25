@@ -1,0 +1,5 @@
+/* Original institutional logos. Crop only empty canvas margins; retain proportions and colors. */
+.logo-frame{display:block;position:relative;flex-shrink:0}.logo-frame img{display:block;max-width:none}.logo-uptc{width:184px;aspect-ratio:15521/7269}.logo-uptc img{width:100%;height:auto}.logo-facultad{width:184px;aspect-ratio:997/276;overflow:hidden}.logo-facultad img{position:absolute;width:108.325%;height:auto;left:-4.915%;top:-84.42%}.logo-maestria{width:100%;aspect-ratio:1005/324;overflow:hidden}.logo-maestria img{position:absolute;width:107.463%;height:auto;left:-4.677%;top:-59.259%}.logo-doctorado{width:100%;aspect-ratio:1262.25/591.75;overflow:hidden}.logo-doctorado img{position:absolute;width:114.082%;height:auto;left:-7.041%;top:-18.364%}
+@media(max-width:1050px){.brand .logo-uptc{width:164px}.brand .logo-facultad{width:158px}}
+@media(max-width:760px){.brand .logo-uptc{width:155px}.brand .logo-facultad{width:145px}}
+@media(max-width:380px){.brand .logo-uptc{width:138px}.brand .logo-facultad{width:130px}}
